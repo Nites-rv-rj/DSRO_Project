@@ -84,7 +84,7 @@ body {
 }
 
 .hero-section {
-    background: url('background-image.jpg') no-repeat center center/cover; /* Replace with your image URL */
+    background: url('Background.jpg') no-repeat center center/cover; /* Replace with your image URL */
     height: 100vh; /* Full viewport height */
     display: flex;
     align-items: center;
